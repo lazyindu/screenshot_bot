@@ -1,0 +1,8 @@
+pyrofork 
+tgcrypto
+motor
+dnspython
+async-timeout
+aiohttp
+Flask
+gunicorn
